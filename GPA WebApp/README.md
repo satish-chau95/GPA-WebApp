@@ -1,7 +1,7 @@
 
 # Graphical-Password-Authentication-Prototype
 
-We the team of six developed Graphical Password Authentication System || Smart India Hackathon
+I developed Graphical Password Authentication System || BOB Hackathon 2024
 
 
 
