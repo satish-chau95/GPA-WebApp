@@ -13,17 +13,7 @@ We the team of six developed Graphical Password Authentication System || Smart I
 
 ## Team ✨
 
-- Saransh Vashisht
-
-- Sushant Kumar
-
-- Sourabh Tripathi
-
-- Rahul Kushwaha
-
-- Ramakant Kumar
-
-- Ash Aggarwal
+- Satish Chaurasia
 
 
 ## Screenshots📸
